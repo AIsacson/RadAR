@@ -9,8 +9,9 @@
 import UIKit
 import ARKit
 
-class ViewController: UIViewController {
-
+class ViewController: UIViewController, UISearchBarDelegate {
+    @IBOutlet weak var searchBar: UISearchBar!
+    
     @IBOutlet weak var sceneView: ARSCNView!
     let configuration = ARWorldTrackingConfiguration()
     override func viewDidLoad() {
@@ -23,14 +24,6 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
-    }
-
-    @IBAction func add(_ sender: UIButton) {
-        let node = SCNNode()
-        node.geometry = SCNBox(width: 0.1, height: 0.1, length: 0.1, chamferRadius: 0)
-        node.geometry?.firstMaterial?.diffuse.contents = UIColor.purple
-        node.position = SCNVector3(0.1,0.1,0.1)
-        self.sceneView.scene.rootNode.addChildNode(node)
     }
 }
 
