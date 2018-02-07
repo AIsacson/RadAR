@@ -7,27 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C606C75820287EB600F52B10 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C606C75720287EB600F52B10 /* AppDelegate.swift */; };
-		C606C75A20287EB600F52B10 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = C606C75920287EB600F52B10 /* art.scnassets */; };
-		C606C75C20287EB600F52B10 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C606C75B20287EB600F52B10 /* ViewController.swift */; };
-		C606C75F20287EB600F52B10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C606C75D20287EB600F52B10 /* Main.storyboard */; };
-		C606C76120287EB600F52B10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C606C76020287EB600F52B10 /* Assets.xcassets */; };
-		C606C76420287EB600F52B10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C606C76220287EB600F52B10 /* LaunchScreen.storyboard */; };
+		C6304C8220288C69000DBA82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6304C8120288C69000DBA82 /* AppDelegate.swift */; };
+		C6304C8420288C69000DBA82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6304C8320288C69000DBA82 /* ViewController.swift */; };
+		C6304C8720288C69000DBA82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6304C8520288C69000DBA82 /* Main.storyboard */; };
+		C6304C8920288C69000DBA82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6304C8820288C69000DBA82 /* Assets.xcassets */; };
+		C6304C8C20288C69000DBA82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6304C8A20288C69000DBA82 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C606C75420287EB600F52B10 /* RadAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RadAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C606C75720287EB600F52B10 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C606C75920287EB600F52B10 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
-		C606C75B20287EB600F52B10 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C606C75E20287EB600F52B10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C606C76020287EB600F52B10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C606C76320287EB600F52B10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C606C76520287EB600F52B10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6304C7E20288C69000DBA82 /* RadAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RadAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6304C8120288C69000DBA82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C6304C8320288C69000DBA82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C6304C8620288C69000DBA82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C6304C8820288C69000DBA82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C6304C8B20288C69000DBA82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C6304C8D20288C69000DBA82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C606C75120287EB600F52B10 /* Frameworks */ = {
+		C6304C7B20288C69000DBA82 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +35,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C606C74B20287EB600F52B10 = {
+		C6304C7520288C69000DBA82 = {
 			isa = PBXGroup;
 			children = (
-				C606C75620287EB600F52B10 /* RadAR */,
-				C606C75520287EB600F52B10 /* Products */,
+				C6304C8020288C69000DBA82 /* RadAR */,
+				C6304C7F20288C69000DBA82 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C606C75520287EB600F52B10 /* Products */ = {
+		C6304C7F20288C69000DBA82 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C606C75420287EB600F52B10 /* RadAR.app */,
+				C6304C7E20288C69000DBA82 /* RadAR.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C606C75620287EB600F52B10 /* RadAR */ = {
+		C6304C8020288C69000DBA82 /* RadAR */ = {
 			isa = PBXGroup;
 			children = (
-				C606C75720287EB600F52B10 /* AppDelegate.swift */,
-				C606C75920287EB600F52B10 /* art.scnassets */,
-				C606C75B20287EB600F52B10 /* ViewController.swift */,
-				C606C75D20287EB600F52B10 /* Main.storyboard */,
-				C606C76020287EB600F52B10 /* Assets.xcassets */,
-				C606C76220287EB600F52B10 /* LaunchScreen.storyboard */,
-				C606C76520287EB600F52B10 /* Info.plist */,
+				C6304C8120288C69000DBA82 /* AppDelegate.swift */,
+				C6304C8320288C69000DBA82 /* ViewController.swift */,
+				C6304C8520288C69000DBA82 /* Main.storyboard */,
+				C6304C8820288C69000DBA82 /* Assets.xcassets */,
+				C6304C8A20288C69000DBA82 /* LaunchScreen.storyboard */,
+				C6304C8D20288C69000DBA82 /* Info.plist */,
 			);
 			path = RadAR;
 			sourceTree = "<group>";
@@ -70,13 +67,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C606C75320287EB600F52B10 /* RadAR */ = {
+		C6304C7D20288C69000DBA82 /* RadAR */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C606C76820287EB600F52B10 /* Build configuration list for PBXNativeTarget "RadAR" */;
+			buildConfigurationList = C6304C9020288C69000DBA82 /* Build configuration list for PBXNativeTarget "RadAR" */;
 			buildPhases = (
-				C606C75020287EB600F52B10 /* Sources */,
-				C606C75120287EB600F52B10 /* Frameworks */,
-				C606C75220287EB600F52B10 /* Resources */,
+				C6304C7A20288C69000DBA82 /* Sources */,
+				C6304C7B20288C69000DBA82 /* Frameworks */,
+				C6304C7C20288C69000DBA82 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,26 +81,26 @@
 			);
 			name = RadAR;
 			productName = RadAR;
-			productReference = C606C75420287EB600F52B10 /* RadAR.app */;
+			productReference = C6304C7E20288C69000DBA82 /* RadAR.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C606C74C20287EB600F52B10 /* Project object */ = {
+		C6304C7620288C69000DBA82 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = RadAR;
 				TargetAttributes = {
-					C606C75320287EB600F52B10 = {
+					C6304C7D20288C69000DBA82 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = C606C74F20287EB600F52B10 /* Build configuration list for PBXProject "RadAR" */;
+			buildConfigurationList = C6304C7920288C69000DBA82 /* Build configuration list for PBXProject "RadAR" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,55 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = C606C74B20287EB600F52B10;
-			productRefGroup = C606C75520287EB600F52B10 /* Products */;
+			mainGroup = C6304C7520288C69000DBA82;
+			productRefGroup = C6304C7F20288C69000DBA82 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C606C75320287EB600F52B10 /* RadAR */,
+				C6304C7D20288C69000DBA82 /* RadAR */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C606C75220287EB600F52B10 /* Resources */ = {
+		C6304C7C20288C69000DBA82 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C606C75A20287EB600F52B10 /* art.scnassets in Resources */,
-				C606C76420287EB600F52B10 /* LaunchScreen.storyboard in Resources */,
-				C606C76120287EB600F52B10 /* Assets.xcassets in Resources */,
-				C606C75F20287EB600F52B10 /* Main.storyboard in Resources */,
+				C6304C8C20288C69000DBA82 /* LaunchScreen.storyboard in Resources */,
+				C6304C8920288C69000DBA82 /* Assets.xcassets in Resources */,
+				C6304C8720288C69000DBA82 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C606C75020287EB600F52B10 /* Sources */ = {
+		C6304C7A20288C69000DBA82 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C606C75C20287EB600F52B10 /* ViewController.swift in Sources */,
-				C606C75820287EB600F52B10 /* AppDelegate.swift in Sources */,
+				C6304C8420288C69000DBA82 /* ViewController.swift in Sources */,
+				C6304C8220288C69000DBA82 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C606C75D20287EB600F52B10 /* Main.storyboard */ = {
+		C6304C8520288C69000DBA82 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C606C75E20287EB600F52B10 /* Base */,
+				C6304C8620288C69000DBA82 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C606C76220287EB600F52B10 /* LaunchScreen.storyboard */ = {
+		C6304C8A20288C69000DBA82 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C606C76320287EB600F52B10 /* Base */,
+				C6304C8B20288C69000DBA82 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -167,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C606C76620287EB600F52B10 /* Debug */ = {
+		C6304C8E20288C69000DBA82 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +220,7 @@
 			};
 			name = Debug;
 		};
-		C606C76720287EB600F52B10 /* Release */ = {
+		C6304C8F20288C69000DBA82 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -274,7 +270,7 @@
 			};
 			name = Release;
 		};
-		C606C76920287EB600F52B10 /* Debug */ = {
+		C6304C9120288C69000DBA82 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -289,7 +285,7 @@
 			};
 			name = Debug;
 		};
-		C606C76A20287EB600F52B10 /* Release */ = {
+		C6304C9220288C69000DBA82 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C606C74F20287EB600F52B10 /* Build configuration list for PBXProject "RadAR" */ = {
+		C6304C7920288C69000DBA82 /* Build configuration list for PBXProject "RadAR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C606C76620287EB600F52B10 /* Debug */,
-				C606C76720287EB600F52B10 /* Release */,
+				C6304C8E20288C69000DBA82 /* Debug */,
+				C6304C8F20288C69000DBA82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C606C76820287EB600F52B10 /* Build configuration list for PBXNativeTarget "RadAR" */ = {
+		C6304C9020288C69000DBA82 /* Build configuration list for PBXNativeTarget "RadAR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C606C76920287EB600F52B10 /* Debug */,
-				C606C76A20287EB600F52B10 /* Release */,
+				C6304C9120288C69000DBA82 /* Debug */,
+				C6304C9220288C69000DBA82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C606C74C20287EB600F52B10 /* Project object */;
+	rootObject = C6304C7620288C69000DBA82 /* Project object */;
 }
